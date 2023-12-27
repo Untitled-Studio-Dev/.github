@@ -1,7 +1,7 @@
-![logo](https://github.com/Untitled-Studio-Dev/.github-private/assets/135037013/8f7e6afd-87ba-481f-91ee-544b991e7f6e)
+![288338890-8f7e6afd-87ba-481f-91ee-544b991e7f6e](https://github.com/Untitled-Studio-Dev/.github/assets/135037013/20199f14-9a0d-455a-9f3f-941f84cfff10)
 
 ## RTH.TF.1. 오늘의 너에게 ✨
-<img src="https://github.com/Untitled-Studio-Dev/.github-private/assets/135037013/53112f82-c59d-4429-a610-378b1dde3446" width="153" height="162">
+<img src="https://github.com/Untitled-Studio-Dev/.github/assets/135037013/95547eaf-3791-42ec-a7d8-e8bad3b2078a" width="153" height="162">
 
 ### 당신의 삶에 마법 같은 통찰력을 더해줄 앱을 소개합니다
 **개인화된 가이드**
