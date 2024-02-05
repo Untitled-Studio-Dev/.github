@@ -68,13 +68,5 @@ body:
 
         ### 주요 잔여 작업
         - T.B.D
-  - type: markdown
-    attributes:
-      value: |
-        # 기타 논의 안건
-  - type: textarea
-    id: meetingminutes_etc
-    attributes:
-      description: "기타 논의 안건 기재"
       value: |
         "> 기타 논의 안건을 편하게 업데이트 해주세요."
