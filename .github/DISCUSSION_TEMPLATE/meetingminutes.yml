@@ -8,7 +8,7 @@ body:
   - type: textarea
     id: meetingminutes_1
     attributes:
-      label: ""
+      label: " "
       description: "서비스별 최근 28일까지의 각 현황 공유"
       value: |
         ## 서비스 상황 (최근 28일)
