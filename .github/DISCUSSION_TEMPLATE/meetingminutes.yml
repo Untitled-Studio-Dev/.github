@@ -8,11 +8,10 @@ body:
   - type: textarea
     id: meetingminutes_1
     attributes:
-      label: " "
+      label: "서비스별 사업 현황"
       description: "서비스별 최근 28일까지의 각 현황 공유"
       value: |
-        ## 서비스 상황 (최근 28일)
-        ### 프로젝트명
+        #### 프로젝트명
         - DAU 당 세션수
         - DAU
         - 세션당 광고 노출:
@@ -29,14 +28,13 @@ body:
       label: 서비스별 Android 개발 현황
       description: "서비스별 안드로이드 진행 현황"
       value: |
-        ## Android 진행 상황
-        ### 프로젝트명
+        #### 프로젝트명
         > 프로젝트별 Android 진행 상황 링크 기재
 
-        ### 지난주 주요 진행 작업
+        ##### 지난주 주요 진행 작업
         - T.B.D
 
-        ### 주요 잔여 작업
+        ##### 주요 잔여 작업
         - T.B.D
   - type: textarea
     id: meetingminutes_iOS
@@ -44,14 +42,13 @@ body:
       label: 서비스별 iOS 개발 현황
       description: "서비스별 iOS 진행 현황"
       value: |
-        ## iOS 진행 상황
-        ### 프로젝트명
+        #### 프로젝트명
         > 프로젝트별 iOS 진행 상황 링크 기재
 
-        ### 지난주 주요 진행 작업
+        ##### 지난주 주요 진행 작업
         - T.B.D
 
-        ### 주요 잔여 작업
+        ##### 주요 잔여 작업
         - T.B.D
   - type: textarea
     id: meetingminutes_design
@@ -59,14 +56,13 @@ body:
       label: 서비스별 디자인 현황
       description: "서비스별 디자인 진행 현황"
       value: |
-        ## 디자인 진행 상황
-        ### 프로젝트명
+        #### 프로젝트명
         > 프로젝트별 디자인 진행 상황 링크 기재
 
-        ### 지난주 주요 진행 작업
+        ##### 지난주 주요 진행 작업
         - T.B.D
 
-        ### 주요 잔여 작업
+        ##### 주요 잔여 작업
         - T.B.D
   - type: markdown
     attributes:
