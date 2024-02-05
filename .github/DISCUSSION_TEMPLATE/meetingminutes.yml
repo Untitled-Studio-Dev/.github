@@ -5,8 +5,11 @@ body:
     attributes:
       value: |
         주간 회의록 작성을 위한 템플릿입니다.
-  - type: markdown
+  - type: textarea
+    id: meetingminutes_1
     attributes:
+      label: 서비스별 상황 보고
+      description: "서비스별 최근 28일까지의 각 상황에 대한 보고 작성"
       value: |
         ## 서비스 상황 (최근 28일)
         ### 프로젝트명
