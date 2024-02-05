@@ -22,12 +22,42 @@ body:
   - type: textarea
     id: meetingminutes_and
     attributes:
-      label: 서비스별 개발 보고
+      label: 서비스별 Android 개발 보고
       description: "서비스별 안드로이드 진행 상황 보고"
       value: |
         ## Android 진행 상황
         ### 프로젝트명
         > 프로젝트별 Android 진행 상황 링크 기재
+
+        ### 지난주 주요 진행 작업
+        - T.B.D
+
+        ### 주요 잔여 작업
+        - T.B.D
+  - type: textarea
+    id: meetingminutes_iOS
+    attributes:
+      label: 서비스별 iOS 개발 보고
+      description: "서비스별 iOS 진행 상황 보고"
+      value: |
+        ## iOS 진행 상황
+        ### 프로젝트명
+        > 프로젝트별 iOS 진행 상황 링크 기재
+
+        ### 지난주 주요 진행 작업
+        - T.B.D
+
+        ### 주요 잔여 작업
+        - T.B.D
+  - type: textarea
+    id: meetingminutes_design
+    attributes:
+      label: 서비스별 디자인 보고
+      description: "서비스별 디자인 진행 상황 보고"
+      value: |
+        ## 디자인 진행 상황
+        ### 프로젝트명
+        > 프로젝트별 디자인 진행 상황 링크 기재
 
         ### 지난주 주요 진행 작업
         - T.B.D
