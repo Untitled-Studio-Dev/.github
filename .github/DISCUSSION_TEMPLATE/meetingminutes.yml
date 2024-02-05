@@ -20,20 +20,20 @@ body:
         - 광고 요청 / 노출:
         - 스토어 등록정보 실적 (스토어 방문자, 획득, 전환율):
   - type: textarea
-      id: meetingminutes_2
-      attributes:
-        label: 서비스별 개발 보고
-        description: "서비스별 안드로이드 진행 상황 보고"
-        value: |
-          ## Android 진행 상황
-          ### 프로젝트명
-          > 프로젝트별 Android 진행 상황 링크 기재
+    id: meetingminutes_and
+    attributes:
+      label: 서비스별 개발 보고
+      description: "서비스별 안드로이드 진행 상황 보고"
+      value: |
+        ## Android 진행 상황
+        ### 프로젝트명
+        > 프로젝트별 Android 진행 상황 링크 기재
 
-          ### 지난주 주요 진행 작업
-          - T.B.D
+        ### 지난주 주요 진행 작업
+        - T.B.D
 
-          ### 주요 잔여 작업
-          - T.B.D
+        ### 주요 잔여 작업
+        - T.B.D
   - type: checkboxes
     attributes:
       label: Check that box!
