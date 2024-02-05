@@ -75,7 +75,6 @@ body:
   - type: textarea
     id: meetingminutes_etc
     attributes:
-      label: 서비스별 디자인 현황
-      description: "서비스별 디자인 진행 현황"
+      label: 기타 논의 안건을 작성해주세요.
       value: |
         - 기타 논의 안건을 작성해주세요
