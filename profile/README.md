@@ -1,4 +1,4 @@
-![288338890-8f7e6afd-87ba-481f-91ee-544b991e7f6e](https://github.com/Untitled-Studio-Dev/.github/assets/135037013/20199f14-9a0d-455a-9f3f-941f84cfff10)
+![헤더 이미지](https://github.com/Untitled-Studio-Dev/.github/assets/135037013/03193422-fe71-4fff-927a-9f648231d688)
 
 # UntitledStudio
 
