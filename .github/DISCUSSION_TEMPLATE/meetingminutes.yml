@@ -4,7 +4,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        주간 회의록 템플릿
+        # 사업 보고
   - type: textarea
     id: meetingminutes_1
     attributes:
