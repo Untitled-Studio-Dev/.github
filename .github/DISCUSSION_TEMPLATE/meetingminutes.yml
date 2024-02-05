@@ -5,6 +5,17 @@ body:
     attributes:
       value: |
         주간 회의록 작성을 위한 템플릿입니다.
+  - type: markdown
+    attributes:
+      value: |
+        ## 서비스 상황 (최근 28일)
+        ### 프로젝트명
+        - DAU 당 세션수
+        - DAU
+        - 세션당 광고 노출:
+        - ARPU:
+        - 광고 요청 / 노출:
+        - 스토어 등록정보 실적 (스토어 방문자, 획득, 전환율):
   - type: checkboxes
     attributes:
       label: Check that box!
