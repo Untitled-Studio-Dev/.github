@@ -2,5 +2,13 @@ title: "[주간 회의] 날짜 "
 labels: ["Meeting Minutes"]
 body:
   - type: markdown
-    attributes:
-      value: 주간 회의록 작성을 위한 템플릿입니다.
+    attributes: |
+      value: 
+      주간 회의록 작성을 위한 템플릿입니다.
+  - type: checkboxes
+      attributes:
+        label: Check that box!
+        options:
+          - label: This one!
+            required: true
+          - label: I won't stop you if you check this one, too
