@@ -68,3 +68,7 @@ body:
 
         ### 주요 잔여 작업
         - T.B.D
+  - type: markdown
+    attributes:
+      value: |
+        # 기타 논의 안건
