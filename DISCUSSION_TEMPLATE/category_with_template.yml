@@ -1,54 +1,55 @@
-title: "[주간 회의] 날짜 "
-labels: ["Meeting Minutes"]
+title: "[General] "
+labels: ["General Introduction"]
 body:
   - type: markdown
     attributes:
       value: |
-        주간 회의록 작성을 위한 템플릿입니다.
+        This is text that will show up in the template!
+  - type: textarea
+    id: improvements
+    attributes:
+      label: Top 3 improvements
+      description: "What are the top 3 improvements we could make to this project?"
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: bash
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
-        ## 서비스 상황 (최근 28일)
-        ### 프로젝트명
-        - DAU 당 세션수
-        - DAU
-        - 세션당 광고 노출:
-        - ARPU:
-        - 광고 요청 / 노출:
-        - 스토어 등록정보 실적 (스토어 방문자, 획득, 전환율):
-  - type: markdown
+        ## Markdown header
+        And some more markdown
+  - type: input
+    id: has-id
     attributes:
-      value: |
-        ## 진행 상황
-        ### 프로젝트명
-        #### Android
-        - Android 진행 상황 링크
-
-        ##### 지난주 주요 진행 작업
-        - 지난주 진행 작업 공유
-
-        ##### 주요 잔여 작업
-        - 잔여 작업 공유
-
-        #### iOS
-        - iOS 진행 상황 링크
-
-        ##### 지난주 주요 진행 작업
-        - 지난주 진행 작업 공유
-
-        ##### 주요 잔여 작업
-        - 잔여 작업 공유
-
-        #### Design
-        - Design 진행 상황 링크
-
-        ##### 지난주 주요 진행 작업
-        - 지난주 진행 작업 공유
-
-        ##### 주요 잔여 작업
-        - 잔여 작업 공유
+      label: Suggestions
+      description: A description about suggestions to help you
+    validations:
+      required: true
+  - type: dropdown
+    id: download
+    attributes:
+      label: Which area of this project could be most improved?
+      options:
+        - Documentation
+        - Pull request review time
+        - Bug fix time
+        - Release cadence
+    validations:
+      required: true
   - type: checkboxes
     attributes:
-      label: ## 논의 내용
+      label: Check that box!
       options:
-        - label: 논의 내용 기재
+        - label: This one!
+          required: true
+        - label: I won't stop you if you check this one, too
+  - type: markdown
+    attributes:
+      value: |
+        ### The thrilling conclusion
+        _to our template_
