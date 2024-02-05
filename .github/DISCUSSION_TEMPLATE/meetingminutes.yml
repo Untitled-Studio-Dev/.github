@@ -20,7 +20,7 @@ body:
         - 광고 요청 / 노출:
         - 스토어 등록정보 실적 (스토어 방문자, 획득, 전환율):
   - type: textarea
-      id: meetingminutes_android
+      id: meetingminutes_2
       attributes:
         label: 서비스별 개발 보고
         description: "서비스별 안드로이드 진행 상황 보고"
