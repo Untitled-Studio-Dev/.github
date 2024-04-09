@@ -21,7 +21,21 @@ body:
   - type: markdown
     attributes:
       value: |
-        # 개발/디자인 진행 상황
+        # 기획/개발/디자인 진행 상황
+  - type: textarea
+    id: meetingminutes_and
+    attributes:
+      label: 서비스별 기획 현황
+      description: "서비스별 기획 진행 현황"
+      value: |
+        #### 프로젝트명
+        > 프로젝트별 기획 진행 상황 링크 기재
+
+        ##### 지난주 주요 진행 작업
+        - T.B.D
+
+        ##### 주요 잔여 작업
+        - T.B.D
   - type: textarea
     id: meetingminutes_and
     attributes:
